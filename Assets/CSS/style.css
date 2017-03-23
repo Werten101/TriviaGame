@@ -22,14 +22,23 @@ h3 {
 
 #GameContainer {
 	width: 35%;
-	height: 700px;
+	height: 730px;
 	background-color: black;
 	margin-right: auto;
 	margin-left: auto;
+	opacity: 0.93;
 
 }
 
-#MainTitle {
+h1 {
 	font-size: 45px;
 	font-family: 'Source Code Pro', monospace;
+}
+
+#Results-Button, #Timer-Button {
+	background-color: black;
+}
+
+#img123 {
+	opacity: 1;
 }
